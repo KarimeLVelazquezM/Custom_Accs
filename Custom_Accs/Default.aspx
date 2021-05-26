@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Custom Accs ASP.NET</h1>
         <p class="lead">Bienvenido a la página de nuestro proyecto, Custom Accs c:</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Comprar &raquo;</a></p>
     </div>
 
     <div class="row">
